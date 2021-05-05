@@ -1,0 +1,4 @@
+b = eval("598 + 705")
+print(b)
+a ="Juan sebastian pasichana".upper()
+print(a)
